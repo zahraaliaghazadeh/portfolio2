@@ -3,7 +3,9 @@
 }
 
 #profilephoto{
-    height: 500px;
+    height: 600px;
+    margin: 30px;
+
     
 }
 
@@ -19,4 +21,9 @@ body{
 .logo{
     height: 60px;
     width: 60px;
+}
+
+
+.footertext{
+    margin-left: 20px;
 }
