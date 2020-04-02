@@ -39,8 +39,10 @@ To view this portfolio you can click : [here](https://zahraaliaghazadeh.github.i
 
 
 To-do list:
-* improvement to be done 1: Improoving the design such as finding better colors and alignment of photos and texts.
-* improvement to be done 2: It has to improve in terms of adjusting the screen size.
+* improvement to be done 1: Improoving the design such as finding better color palletes or improving the alignment of photos and texts.
+* improvement to be done 2: The icon is not sitting in the navbar good enough.
+* improvement to be done 3: Hamburger navbar feature.
+
 
 
 ## Status
