@@ -34,11 +34,12 @@ To view this portfolio you can click : [here](https://zahraaliaghazadeh.github.i
 
 
 ## Features
-* feature 1: This app has the responsive ability, it can customize its sizes depending on changes to the screen.
+* feature 1: This app has the responsive ability, it can customize its sizes depending on changes to the screen. 
 * feature 2: responsive tabs to open once clicked for portfolio and contact me.
 
 
 To-do list:
+* This app is still having change of screen-size problems in the "About Me" section.
 * improvement to be done 1: Improoving the design such as finding better color palletes or improving the alignment of photos and texts.
 * improvement to be done 2: The icon is not sitting in the navbar good enough.
 * improvement to be done 3: Hamburger navbar feature.

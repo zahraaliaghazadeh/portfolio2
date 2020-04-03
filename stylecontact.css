@@ -17,5 +17,14 @@ body{
 }
 
 .footertext{
-    margin-left: 20px;
+     margin-left: 20px;
+     /* padding: 20px; */
+
+}
+
+
+.brand-logo{
+    position: absolute;
+    margin: 0px auto;
+    display: contents;
 }
