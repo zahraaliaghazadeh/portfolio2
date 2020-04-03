@@ -8,7 +8,7 @@
 
 body{
     /* background-color:#000000 ; */
-    background-image: url(https://images.unsplash.com/photo-1541450711770-551bbd9ab9d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60);
+    /* background-image: url(https://images.unsplash.com/photo-1541450711770-551bbd9ab9d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60); */
 }
 
 .logo{
@@ -27,4 +27,5 @@ body{
     position: absolute;
     margin: 0px auto;
     display: contents;
+    font-size: 1.5rem;
 }
