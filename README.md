@@ -38,6 +38,7 @@ To view this portfolio you can click : [here](http://www.unsplash.com/)
 ## Features
 * feature 1: This app has the responsive ability, it can customize its sizes depending on changes to the screen. 
 * feature 2: responsive tabs to open once clicked for portfolio and contact me.
+* feature 3: the portfolio page has list of some of my projects with the links to the deployed application, as well as the link to github repository and a short discription.
 
 
 To-do list:
